@@ -2,7 +2,7 @@
 remote control for the unitree go1 based on esp32, wifi, mqtt
 
 Hardware:<br>
-ESP32 lolin wemos d1 e.g. from<br>
+ESP8266 lolin wemos d1 e.g. from<br>
 https://www.az-delivery.de/products/esp32-d1-mini-nodemcu-wifi-modul-esp-32-bluetooth-internet-entwicklungsboard-mit-usb-c-anschluss-kompatibel-mit-arduino-und-kompatibel-mit-wemos-d1-mini
 <br><br>
 joystick, e.g. from<br>
