@@ -17,6 +17,9 @@ Take care of values when driving with 5V while developing and 3.3V when using. V
 You may use the mqtt topic debug/xy to send debug strings and watch them with a mqtt client, e.g. MQTTX<br>
 https://mqttx.app/downloads
 <br><br>
+schematic:<br>
+<img src="https://github.com/maggusscheppi/Go1_Joystick/blob/main/go1_joystick_wiring.jpg" width=300px;/>
+<br><br>
 housing:<br>
 https://www.thingiverse.com/thing:3384973
 <br><br>
